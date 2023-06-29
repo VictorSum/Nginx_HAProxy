@@ -47,7 +47,7 @@ backend web_servers    # секция бэкенд
         server s2 127.0.0.1:9999 check
 ```
 
-![Task1](https://github.com/joos-net/nginx-haproxy/blob/main/files/haproxy1.png)
+![Task1](https://github.com/VictorSum/Nginx_HAProxy/blob/main/files/haproxy1.png)
 
 
 ---
@@ -77,7 +77,7 @@ backend web_servers    # секция бэкенд
         server s3 127.0.0.1:9999 weight 4 check
 ```
 
-![Task2](https://github.com/joos-net/nginx-haproxy/blob/main/files/haproxy2.png)
+![Task2](https://github.com/VictorSum/Nginx_HAProxy/blob/main/files/haproxy2.png)
 
 ---
 ## Дополнительные задания (со звездочкой*)
@@ -115,9 +115,9 @@ server {
    }
 }
 ```
-![Task31](https://github.com/joos-net/nginx-haproxy/blob/main/files/hapng.png)
-![Task32](https://github.com/joos-net/nginx-haproxy/blob/main/files/hapng1.png)
-![Task33](https://github.com/joos-net/nginx-haproxy/blob/main/files/hapng2.png)
+![Task31](https://github.com/VictorSum/Nginx_HAProxy/blob/main/files/hapng.png)
+![Task32](https://github.com/VictorSum/Nginx_HAProxy/blob/main/files/hapng1.png)
+![Task33](https://github.com/VictorSum/Nginx_HAProxy/blob/main/files/hapng2.png)
 
 ---
 
